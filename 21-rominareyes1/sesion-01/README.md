@@ -5,4 +5,5 @@
 TRAUMAS
 
 con esta imagen
+
 ![texto que explica la imagen](./foto.jpg)
